@@ -1,9 +1,3 @@
-//
-//  arratainotesTests.swift
-//  arratainotesTests
-//
-//  Created by Sarathy V on 07/04/26.
-//
 
 import XCTest
 
